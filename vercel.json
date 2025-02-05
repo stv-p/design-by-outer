@@ -1,5 +1,6 @@
 {
   "redirects": [
-    { "source": "/shop", "destination": "https://store.designbyouter.com", "permanent": false }
+    { "source": "/shop", "destination": "https://shop.designbyouter.com", "permanent": false },
+    { "source": "/contact", "destination": "https://linktr.ee/outerart", "permanent": false }
   ]
 }
