@@ -1,0 +1,5 @@
+{
+  "redirects": [
+    { "source": "/shop", "destination": "https://store.designbyouter.com", "permanent": false }
+  ]
+}
